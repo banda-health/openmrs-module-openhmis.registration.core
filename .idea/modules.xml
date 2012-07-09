@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/openhmis.registration.core.iml" filepath="$PROJECT_DIR$/openhmis.registration.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/openhmis.registration.core-api.iml" filepath="$PROJECT_DIR$/api/openhmis.registration.core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/omod/openhmis.registration.corei-omod.iml" filepath="$PROJECT_DIR$/omod/openhmis.registration.corei-omod.iml" />
+    </modules>
+  </component>
+</project>
+
